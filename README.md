@@ -4,6 +4,8 @@
 
 # nexa-gauge - Graph-Based Evaluation for LLM and RAG Systems
 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-OSP/nexa-gauge) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria)
+
 **A cache-aware evaluation engine for measuring LLM and RAG output quality with repeatable metrics, cost estimates, and structured reports.**
 
 <p>
